@@ -1,0 +1,56 @@
+1. Buatlah program sederhana untuk "menampilkan" "nama Anda masing-masing" dengan menggunakan sebuah "variable".
+    keyword:
+        - menampilkan --> ngeprint ke console
+        - nama Anda masing-masing --> nama --> huruf
+        - variable --> tempat buat nampung data
+
+    syntatic:
+        - ngeprint ke console --> cout
+        - huruf --> string/char --> string
+        - variable --> nama
+
+2. Buatlah "list belanja" bulanan ("min.5") dengan menggunakan "array" dan "tampilkan hasilnya". (Dengan "mengakses index tertentu" dan menampilkan seluruh list belanja)
+    keyword:
+        - list belanja
+        - min.5
+        - array
+        - akses index tertentu
+        - tampilkan hasilnya
+
+    syntatic:
+        - list belanja --> huruf
+        - min.5 --> contentnya ada 5 buah
+        - array --> []
+        - akses index tertentu --> [randomNum]
+        - tampilkan hasilnya --> cout
+
+3. Buatlah sebuah "function bangun ruang" dengan menggunakan "parameter" dan "return value". (contoh: volume balok, volume kubus, volume tabung, dll)
+    keyword:
+        - function bangun ruang
+        - parameter
+        - return value
+
+    syntatic:
+        - function bangun ruang --> angka
+        - parameter --> tergantung bangun ruang
+        - return value --> angka
+
+4. Buatlah sebuah "record Kelas" dengan menggunakan "struct/class" yang terdiri dari "member nama, nim, dan nilai".
+    keyword:
+        - record kelas
+        - member nama, nim, dan nilai
+    
+    syntatic:
+        - record/kelas --> struct/class
+        - member nama, nim, dan nilai --> (huruf, huruf, angka)
+
+5. Buatlah sebuah program sederhana untuk menampilkan "bilangan prima dari 1 sampai dengan N" dengan menggunakan "function" dan "looping".
+    keyword:
+        - bilangan prima dari 1 sampai dengan N
+        - function
+        - looping
+
+    syntatic:
+        - bilangan prima dari 1 sampai dengan N --> angka
+        - function --> angka
+        - looping --> for
